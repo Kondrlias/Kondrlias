@@ -1,6 +1,6 @@
 Hi!
 
-My name is Julia. I became learning Web Development.
+My name is Julia.  I have started learning Web Development.
 
 <!---
 Kondrlias/Kondrlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
